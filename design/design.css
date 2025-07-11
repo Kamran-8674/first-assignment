@@ -32,13 +32,54 @@
     border:none ;
     
 }
-.button{
-    text-align: center;
-}
+
 .banner{
     text-align: center;
     /* margin-top: 20px; */
     font-weight: bold;
     font-size: 65px;
    
+}
+.action{
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
+    margin-top: 130px;
+    gap: 0px;
+}
+.action-title{
+    font-weight: bold;
+    font-size: 42px;
+    color: #252432;
+
+}
+.sub-title{
+    color: #252432;
+}
+.section-two{
+    text-align: center;
+    width: 1140px;
+    height: 100px;
+    margin-top: 130px;
+    
+    align-items: center;
+    justify-items: center;
+   
+    
+    
+}
+.back{
+    background-color: #8985ebd8;
+
+   
+}
+.flex{
+    display: flex;
+    justify-content: space-around;
+  
+}
+.color{
+    font-weight: bold;
+    font-size: 80px;
+    color: #4E47FF;
 }
