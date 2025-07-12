@@ -84,7 +84,7 @@
 .section-two{
     text-align: center;
     /* width: 1140px; */
-    /* height: 100px; */
+    /* height: 400px; */
     margin-top: 130px;
     align-items: center;
     /* justify-items: center; */
@@ -97,10 +97,11 @@
     
 }
 .back{
-    background-color:rgb(61, 107, 100);
+    background-color:rgb(107, 61, 61);
     padding: 100px 130px;
     border-radius: 10px;
     text-align: center;
+    /* height: 200px; */
     
    
    
