@@ -55,7 +55,7 @@
 
 }
 .sub-title{
-    color: #252432;
+    color:#252432 ;
 }
 .section-two{
     text-align: center;
@@ -73,10 +73,11 @@
     
 }
 .back{
-    background-color: #8985ebd8;
+    background-color:rgb(61, 107, 100);
     padding: 100px 130px;
     border-radius: 10px;
     text-align: center;
+    
    
    
 }
@@ -91,10 +92,11 @@
     color:#8a0ad5;
 }
 .section-three{
-    background-color: #FFFFFF;
+    
     display: flex;
     text-align: center;
-    justify-content: space-around;
+    justify-content: space-around; 
+    margin-top: 50px;
 }
 .title{
     font-weight: bold;
@@ -102,7 +104,7 @@
     color: #000000;
 }
 form{
-    margin-top: 200px;
+    margin-top: 150px;
     display:block;
     gap: 10px;
     display: inline-block;
@@ -120,4 +122,32 @@ text-align: justify;
 .textarea{
     width:250px ;
     height: 80px; border-radius: 10px;
+    padding: 10px
 }
+.footer-section{
+    text-align: center;
+    margin-top: 100px;
+}
+ul,li{
+    list-style: none;
+    display: flex;
+    text-align: center;
+    justify-content:center;
+    margin-right: 20px;
+    
+
+
+}
+
+
+ footer,p{
+    color: #8987A1;
+
+ }   
+
+ul,li,a{
+    text-decoration: none;
+    color: #8987A1;
+
+}
+
